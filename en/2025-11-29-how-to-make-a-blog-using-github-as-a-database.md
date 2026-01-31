@@ -119,6 +119,6 @@ But how does the post show up in the view?
 
 Couldn't be simpler! The secret sauce here is using the `prose` class from Tailwind CSS, which provides an out-of-the-box complete stylization to the simple html the markdown converts to. 
 
-I hope this inspires you to give something similar a try! I guess I have a blog now, so expect more posts like this exploring some simple an fun projects I'm building. Thanks for reading!
+I hope this inspires you to give something similar a try! I guess I have a blog now, so expect more posts like this exploring some simple and fun projects I'm building. Thanks for reading!
 
 
